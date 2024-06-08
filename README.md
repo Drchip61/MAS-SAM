@@ -26,8 +26,8 @@ Recently, Segment Anything Model (SAM) shows exceptional performance in generati
 To get started, first clone the Dual_SAM repository and navigate to the project directory:
 
 ```bash
-git clone https://github.com/Drchip61/Dual_SAM.git
-cd Dual_SAM
+git clone https://github.com/Drchip61/MAS_SAM.git
+cd MAS_SAM
 
 ```
 
@@ -37,8 +37,8 @@ Dual_SAM recommends setting up a conda environment and installing dependencies v
 #### Create and activate a new conda environment
 
 ```bash
-conda create -n Dual_SAM
-conda activate Dual_SAM
+conda create -n MAS_SAM
+conda activate MAS_SAM
 ```
 #### Install Dependencies.
 ```bash
@@ -53,7 +53,7 @@ Please put the pretrained [SAM model](https://drive.google.com/file/d/1_oCdoEEu3
 **Training**
 ```bash
 # Change the hyper parameter in the train_s.py 
-python train_s.py
+python train_y.py
 ```
 
 **Testing**
@@ -72,14 +72,4 @@ python bimap.py
 python test_score.py
 ```
 
-## Citation
 
-```
-@inproceedings{
-anonymous2024fantastic,
-title={Fantastic Animals and Where to Find Them: Segment Any Marine Animal with Dual {SAM}},
-author={Pingping Zhang，Tianyu Yan， Yang Liu，Huchuan Lu},
-booktitle={Conference on Computer Vision and Pattern Recognition 2024},
-year={2024}
-}
-```
