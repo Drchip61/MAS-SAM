@@ -2,9 +2,10 @@
 <h1>MAS-SAM(IJCAI2024)</h1>
 <h3>MAS-SAM: Segment Any Marine Animal with Aggregated Features</h3>
 
-[Tianyu Yan](https://github.com/Drchip61)<sup>1</sup>,[Zifu Wan](https://github.com/Drchip61)<sup>1</sup>,[Xinhao Deng](https://github.com/Drchip61)<sup>1</sup>,[*Pingping Zhang✉️](http://faculty.dlut.edu.cn/zhangpingping/en/index.htm)<sup>1</sup>,[Yang Liu](http://faculty.dlut.edu.cn/liuyang1/zh_CN/index.htm)<sup>1</sup>, [Huchuan Lu](http://faculty.dlut.edu.cn/Huchuan_Lu/zh_CN/index.htm)<sup>1</sup>
+[Tianyu Yan](https://github.com/Drchip61)<sup>1</sup>,[Zifu Wan](zifuw@andrew.cmu.edu)<sup>2</sup>,[Xinhao Deng](dengxh@mail.dlut.edu.cn)<sup>1</sup>,[*Pingping Zhang✉️](http://faculty.dlut.edu.cn/zhangpingping/en/index.htm)<sup>1</sup>,[Yang Liu](http://faculty.dlut.edu.cn/liuyang1/zh_CN/index.htm)<sup>1</sup>, [Huchuan Lu](http://faculty.dlut.edu.cn/Huchuan_Lu/zh_CN/index.htm)<sup>1</sup>
 
 [Dalian University of Technology, IIAU-Lab](https://futureschool.dlut.edu.cn/IIAU.htm)<sup>1</sup>
+[Robotics Institute, Carnegie Mellon University]<sup>2</sup>
 
 
 ## Abstract
